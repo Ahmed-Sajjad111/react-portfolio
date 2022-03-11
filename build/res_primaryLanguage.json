@@ -15,7 +15,7 @@
         "startDate": "2022",
         "description": "The most expanded application I had opportunity to work with where I learned many technologies alongside my team. This application was built to allow users to view and purchase different kinds of coffee and mantis-mocha merchandise.",
         "images": [
-          "public/images/portfolio/mantis-mocha/mantis-mocha-website-preview.PNG"
+          "images/portfolio/mantis-mocha/mantis-mocha-website-preview.png"
         ],
         "url": "https://github.com/Ahmed-Sajjad111/mantis-mocha",
         "technologies": [
@@ -50,7 +50,7 @@
         "startDate": "2021",
         "description": "A collaborative book writing application where users can sign in/login to interact and write together",
         "images": [
-          "/images/portfolio/my-book/my-book-preview.PNG"
+          "images/portfolio/my-book/my-book-preview.png"
         ],
         "url": "https://github.com/Ahmed-Sajjad111/MyBook",
         "technologies": [

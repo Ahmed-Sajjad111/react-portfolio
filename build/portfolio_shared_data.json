@@ -1,0 +1,83 @@
+{
+    "basic_info": {
+      "name": "Ahmed Sajjad",
+      "titles": [ "Full Stack Developer" ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/Ahmed-Sajjad111",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/ahmed-sajjad-3344b8217/",
+          "class": "fab fa-linkedin"
+        }
+      ],
+      "image": "myProfile.jpg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain",
+          "level": "100"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain",
+          "level": "100"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "100"
+        },
+        {
+          "name": "React.js",
+          "class": "devicon-react-original",
+          "level": "100"
+        },
+        {
+          "name": "Bootstrap",
+          "class": "devicon-bootstrap-plain",
+          "level": "100"
+        },
+        {
+          "name": "Node.js",
+          "class": "devicon-nodejs-plain",
+          "level": "100"
+        },
+        {
+          "name": "Express",
+          "class": "devicon-express-original",
+          "level": "100"
+        },
+        {
+          "name": "MySql",
+          "class": "devicon-mysql-plain",
+          "level": "100"
+        },
+        {
+          "name": "Sequelize",
+          "class": "devicon-sequelize-plain",
+          "level": "100"
+        },
+        {
+          "name": "MongoDB",
+          "class": "devicon-mongodb-plain",
+          "level": "100"
+        },
+        {
+          "name": "GraphQL",
+          "class": "devicon-graphql-plain",
+          "level": "100"
+        },
+        {
+          "name": "C#",
+          "class": "devicon-csharp-plain",
+          "level": "5"
+        }
+      ]
+    }
+  }
