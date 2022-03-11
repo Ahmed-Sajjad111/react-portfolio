@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import $ from "jquery";
 import "./App.scss";
 import Header from "./components/Header";
+import Contact from "./components/Contact"
 import Footer from "./components/Footer";
 import About from "./components/About";
 import Experience from "./components/Experience";
@@ -133,6 +134,7 @@ class App extends Component {
           resumeExperience={this.state.resumeData.experience}
           resumeBasicInfo={this.state.resumeData.basic_info}
         />
+        <Contact></Contact>
         <Footer sharedBasicInfo={this.state.sharedData.basic_info} />
       </div>
     );
