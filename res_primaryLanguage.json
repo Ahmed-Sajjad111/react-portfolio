@@ -1,0 +1,148 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 I'm Ahmed Sajjad. Front-end web developer utilizing an IT background to build an easy user experience on applications. Earned a certificate in Full Stack Web Development from the University of Minnesota. Known to be a dedicated problem solver, natural leader, and flexible team member. Proficient in quickly analyzing situations and making informed decisions. Applied aspects of UX and agile development and worked in teams to develop single-page MERN apps, one of which helped local business owners track their sales, inventory, and attendance. 👆 If you'd like to see my other projects, click my github at the top left of the page.",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Mantis Mocha",
+        "startDate": "2022",
+        "description": "The most expanded application I had opportunity to work with where I learned many technologies alongside my team. This application was built to allow users to view and purchase different kinds of coffee and mantis-mocha merchandise.",
+        "images": [
+          "images/portfolio/mantis-mocha/mantis-mocha-website-preview.png"
+        ],
+        "url": "https://github.com/Ahmed-Sajjad111/mantis-mocha",
+        "technologies": [
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
+          },
+          {
+            "class": "devicon-express-original",
+            "name": "Express.js"
+          },
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Node.js"
+          },
+          {
+            "class": "devicon-redux-plain",
+            "name": "Redux"
+          },
+          {
+            "class": "devicon-graphql-plain",
+            "name": "GraphQL"
+          }
+        ]
+      },
+      {
+        "title": "MyBook",
+        "startDate": "2021",
+        "description": "A collaborative book writing application where users can sign in/login to interact and write together",
+        "images": [
+          "images/portfolio/my-book/my-book-preview.png"
+        ],
+        "url": "https://github.com/Ahmed-Sajjad111/MyBook",
+        "technologies": [
+          {
+            "class": "devicon-mysql-plain",
+            "name": "SQL"
+          },
+          {
+            "class": "devicon-express-original",
+            "name": "Express.js"
+          },
+          {
+            "class": "devicon-handlebars-plain",
+            "name": "Handlebars"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Node.js"
+          }
+        ]
+      },
+      {
+        "title": "Munchies and Movies",
+        "startDate": "2021",
+        "description": "One of the first projects I worked on. A web app that allows you to search for movies on any of your favorite streaming services and also allows you to search for a restaurant near you!",
+        "images": [
+          "images/portfolio/munchies-and-movies/munchiesandmovies.png"
+        ],
+        "url": "https://github.com/Ahmed-Sajjad111/Munchies-and-Movies",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-jquery-plain",
+            "name": "JQuery"
+          },
+          {
+            "class": "devicon-tailwindcss-plain",
+            "name": "TailwindCSS"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "University of Minnesota",
+        "title": "Full Stack Development",
+        "years": "",
+        "mainTech": [
+          ""
+        ],
+        "technologies": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "JQuery",
+          "Bootstrap",
+          "MongoDB/Mongoose",
+          "MySQL/Sequelize",
+          "Express",
+          "React",
+          "Node",
+          "Handlebars",
+          "REST API",
+          "Apollo",
+          "GraphQL"
+        ]
+      },
+      {
+        "company": "MAINGEAR",
+        "title": "Product Specialist",
+        "years": "",
+        "mainTech": [
+          ""
+        ],
+        "technologies": [
+          "Repair",
+          "Support",
+          "OPK",
+          "Sales",
+          "Building"
+        ]
+      }
+    ]
+  }
