@@ -39,7 +39,7 @@ body[data-theme="dark"] {
       }
    }
 
-   #about {
+   #about, #contact {
       background-color: #7f7f7f;
       h1 span {
          color: white;
@@ -50,6 +50,9 @@ body[data-theme="dark"] {
       .card {
          background: #6d6d6d;
          color: white;
+      }
+      a {
+         color: black !important;
       }
    }
 

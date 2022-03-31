@@ -2,31 +2,21 @@ import React from "react";
 
 function Contact() {
     return (
-        <div className="col-md-12">
-            <div className="col-md-12 text-center">
+        <section id="contact">
+            <div className="col-md-12">
                 <h1 className="section-title" style={{ color: "black" }}>
-                    <span className="text-black" style={{ textAlign: "center" }}>
-                        Contact Me
-                    </span>
+                    <span>Contact Me</span>
                 </h1>
-            </div>
-            <div className="col-md-12 mx-auto">
-                <div className="col-md-12">
-                    <h1 className="section-title" style={{ color: "black" }}>
-                        <span className="text-black"  style={{ textAlign: "center" }}>
-                            <a style={{ color: "green" }} className="px-5" href="https://www.linkedin.com/in/ahmed-sajjad-3344b8217/">LinkedIn: Ahmed Sajjad</a>
-                            ||
-                            <a style={{ color: "green" }} className="px-5" href="https://www.github.com/Ahmed-Sajjad111">Github: Ahmed-Sajjad111</a>
-                            ||
-                            <a style={{ color: "green" }} className="px-5" href="mailto:uasajjad11198@outlook.com">Email: uasajjad11198@outlook.com</a>
-                            ||
-                            <a style={{ color: "green" }} className="px-5" href="tel:908-416-2394">Phone: (908) 416-2394</a>
-                        </span>
-                    </h1>
+                <div className="col-md-12 mx-auto">
+                    <div className="row mx-auto justify-content-around">
+                            <a style={{ color: "green" }} className="links px-auto" href="https://www.linkedin.com/in/ahmed-sajjad-3344b8217/">LinkedIn: Ahmed Sajjad</a>
+                            <a style={{ color: "green" }} className="links px-auto" href="https://www.github.com/Ahmed-Sajjad111">Github: Ahmed-Sajjad111</a>
+                            <a style={{ color: "green" }} className="links px-auto" href="mailto:uasajjad11198@outlook.com">Email: uasajjad11198@outlook.com</a>
+                            <a style={{ color: "green" }} className="links px-auto" href="tel:908-416-2394">Phone: (908) 416-2394</a>
+                    </div>
                 </div>
             </div>
-        </div>
+        </section>
     )
 }
-
 export default Contact;

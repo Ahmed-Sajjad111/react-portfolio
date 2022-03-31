@@ -222,6 +222,13 @@ header h1 {
 	background: #4f7942;
 }
 
+#resume-link {
+	background: #1F1F1F;
+	width: 100%;
+	overflow: hidden;
+	padding-bottom: 5%;
+}
+
 .experience-icon {
 	font-size: 300%;
 	margin-top: 25%;
@@ -365,6 +372,15 @@ header h1 {
 
 .portfolio .portfolio-item .portfolio-item-caption .portfolio-item-caption-content {
 	font-size: 1.5rem;
+}
+
+#contact {
+	padding-bottom: 5%
+}
+
+#contact a, #resume-link a {
+	font-weight: 600;
+	font-size: 150%;
 }
 
 @media (min-width: 576px) {

@@ -35,9 +35,9 @@ class About extends Component {
                     icon={fileTypeMongo}
                     style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
                   />
-                  <Icon 
-                  icon={expressIcon} 
-                  style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
+                  <Icon
+                    icon={expressIcon}
+                    style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
                   />
                   <Icon
                     icon={reactIcon}
@@ -92,6 +92,11 @@ class About extends Component {
             </div>
           </div>
         </div>
+        {/* <div className="col-md-12">
+          <h1 className="section-title" style={{ color: "black" }}>
+            <a href="https://drive.google.com/file/d/18c9QLSj18rXb3-wa4CSRp5xU_xLuOqva/view?usp=sharing">Resume</a>
+          </h1>
+        </div> */}
       </section>
     );
   }
