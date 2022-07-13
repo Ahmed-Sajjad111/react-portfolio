@@ -12,6 +12,11 @@
           "name": "linkedin",
           "url": "https://www.linkedin.com/in/ahmed-sajjad-3344b8217/",
           "class": "fab fa-linkedin"
+        },
+        {
+          "name": "resume",
+          "url": "https://drive.google.com/file/d/18c9QLSj18rXb3-wa4CSRp5xU_xLuOqva/view?usp=sharing",
+          "class": "fas fa-file-user"
         }
       ],
       "image": "myProfile.jpg"
