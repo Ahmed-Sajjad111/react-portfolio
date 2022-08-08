@@ -4,9 +4,11 @@
       "description": "👋 I'm Ahmed Sajjad. Full Stack web developer with a back-end focus utilizing an IT background to build an easy user experience on applications. Earned a certificate in Full Stack Web Development from the University of Minnesota. Known to be a dedicated problem solver, natural leader, and flexible team member. Proficient in quickly analyzing situations and making informed decisions. Applied aspects of UX and agile development and worked in teams to develop single-page MERN apps, one of which helped local business owners track their sales, inventory, and attendance. 👆 If you'd like to see my other projects, click my github at the top left of the page.",
       "section_name": {
         "about": "About me",
+        "resume": "Resume and LinkedIn",
         "projects": "Projects",
         "skills": "Skills",
-        "experience": "Experience"
+        "experience": "Experience",
+        "contactme": "Contact Me"
       }
     },
     "projects": [
@@ -106,6 +108,37 @@
     ],
     "experience": [
       {
+        "company": "2U Inc. Web and App Development Programs",
+        "title": "Instructional Staff",
+        "years": "",
+        "mainTech": [
+          ""
+        ],
+        "technologies": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "JQuery",
+          "Bootstrap",
+          "MongoDB/Mongoose",
+          "MySQL/Sequelize",
+          "Express",
+          "React",
+          "Node",
+          "Handlebars",
+          "REST API",
+          "Apollo",
+          "GraphQL",
+          "Git",
+          "PWA",
+          "Computer Science",
+          "Agile Methodology",
+          "Database Theory",
+          "API/JSON/AJAX",
+          "Unit Testing"
+        ]
+      },
+      {
         "company": "University of Minnesota",
         "title": "Full Stack Development",
         "years": "",
@@ -126,7 +159,8 @@
           "Handlebars",
           "REST API",
           "Apollo",
-          "GraphQL"
+          "GraphQL",
+          "Git"
         ]
       },
       {
