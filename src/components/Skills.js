@@ -16,6 +16,11 @@ class Skills extends Component {
                   >
                     {skills.name}
                   </p>
+                  <p
+                    className="text-center"
+                    style={{ fontSize: "30%", marginTop: "4px" }}>
+                    {skills.level} %
+                    </p>
                 </i>
               </div>
             </span>
