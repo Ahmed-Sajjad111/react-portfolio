@@ -1,26 +1,81 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Ahmed Sajjad. Full Stack web developer with a back-end focus utilizing an IT background to build an easy user experience on applications. Earned a certificate in Full Stack Web Development from the University of Minnesota. Known to be a dedicated problem solver, natural leader, and flexible team member. Proficient in quickly analyzing situations and making informed decisions. Applied aspects of UX and agile development and worked in teams to develop single-page MERN apps, one of which helped local business owners track their sales, inventory, and attendance. 👆 If you'd like to see my other projects, click my github at the top left of the page.",
+      "description": "👋 I'm Ahmed Sajjad. Full stack developer utilizing an IT background to innovate in the software industry. Known to be a dedicated problem solver, natural leader, and flexible team member. Using my passion for leadership and for helping others, I decided to help others pursue their dreams as upcoming developers. I help teach students full stack development skills all across the country. Eventually I would like to take my software career towards what I love most, gaming. Software is only limited by the capabilities of your mind. Unfortunately for software, my mind is not limited by anything. 👆 If you'd like to see my other projects, click my github at the top left of the page.",
       "section_name": {
         "about": "About me",
         "resume": "Resume and LinkedIn",
-        "projects": "Projects",
+        "projects": "Case Studies and Projects",
         "skills": "Skills",
-        "experience": "Experience",
+        "experience": "Experience and Education",
         "contactme": "Contact Me"
       }
     },
     "projects": [
       {
+        "title": "Mashup",
+        "startDate": "2022",
+        "description": "A TikTok clone. A full stack CRUD web application where users can post, like, and comment on video posts made by each other. Users browse by popular topics and have accounts suggested to them.",
+        "images": [
+          "images/portfolio/mashup/mashup-website-preview.png"
+        ],
+        "url": "https://mashup-zb8w.vercel.app/",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-google-plain",
+            "name": "GoogleOAuthv2"
+          },
+          {
+            "class": "devicon-nextjs-plain",
+            "name": "Next.js"
+          },
+          {
+            "class": "devicon-sanity-plain",
+            "name": "Sanity"
+          }
+        ]
+      },
+      {
         "title": "Mantis Mocha",
         "startDate": "2022",
-        "description": "The most expanded application I had opportunity to work with where I learned many technologies alongside my team. This application was built to allow users to view and purchase different kinds of coffee and mantis-mocha merchandise.",
+        "description": "A fully responsive E-Commerce store created to sell coffee and coffee-related merchandise. Users can customize their web page with various different themes. Users can also track their orders from their profile page.",
         "images": [
           "images/portfolio/mantis-mocha/mantis-mocha-website-preview.PNG"
         ],
-        "url": "https://github.com/Ahmed-Sajjad111/mantis-mocha",
+        "url": "https://mantismocha.herokuapp.com/",
         "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
           {
             "class": "devicon-mongodb-plain",
             "name": "MongoDB"
@@ -44,18 +99,38 @@
           {
             "class": "devicon-graphql-plain",
             "name": "GraphQL"
+          },
+          {
+            "class": "devicon-materialui-plain",
+            "name": "MaterialUI"
           }
         ]
       },
       {
         "title": "MyBook",
         "startDate": "2021",
-        "description": "A collaborative book writing application where users can sign in/login to interact and write together",
+        "description": "MyBook is an interactive web application where users collaborate to produce a written work as a group and where all members are allowed to contribute to the content. It allowed users to not only collaborate and network, but overcome writer’s block in their professional writing careers.",
         "images": [
           "images/portfolio/my-book/my-book-preview.PNG"
         ],
-        "url": "https://github.com/Ahmed-Sajjad111/MyBook",
+        "url": "https://cbc-my-book.herokuapp.com/",
         "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-tailwindcss-plain",
+            "name": "TailwindCSS"
+          },
           {
             "class": "devicon-mysql-plain",
             "name": "SQL"
@@ -73,44 +148,13 @@
             "name": "Node.js"
           }
         ]
-      },
-      {
-        "title": "Munchies and Movies",
-        "startDate": "2021",
-        "description": "One of the first projects I worked on. A web app that allows you to search for movies on any of your favorite streaming services and also allows you to search for a restaurant near you!",
-        "images": [
-          "images/portfolio/munchies-and-movies/munchiesandmovies.png"
-        ],
-        "url": "https://github.com/Ahmed-Sajjad111/Munchies-and-Movies",
-        "technologies": [
-          {
-            "class": "devicon-html5-plain",
-            "name": "HTML"
-          },
-          {
-            "class": "devicon-css3-plain",
-            "name": "CSS"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          },
-          {
-            "class": "devicon-jquery-plain",
-            "name": "JQuery"
-          },
-          {
-            "class": "devicon-tailwindcss-plain",
-            "name": "TailwindCSS"
-          }
-        ]
       }
     ],
     "experience": [
       {
         "company": "2U Inc. Web and App Development Programs",
         "title": "Instructional Staff",
-        "years": "",
+        "years": "08/16/2022 - Current",
         "mainTech": [
           ""
         ],
@@ -141,9 +185,9 @@
       {
         "company": "University of Minnesota",
         "title": "Full Stack Development",
-        "years": "",
+        "years": "08/21/2021 - 02/03/2022",
         "mainTech": [
-          ""
+          "GPA: 4.0"
         ],
         "technologies": [
           "HTML",
@@ -166,7 +210,7 @@
       {
         "company": "MAINGEAR",
         "title": "Product Specialist",
-        "years": "",
+        "years": "09/01/2019 - 05/15/2020",
         "mainTech": [
           ""
         ],
@@ -175,7 +219,59 @@
           "Support",
           "OPK",
           "Sales",
-          "Building"
+          "Building Systems"
+        ]
+      },
+      {
+        "company": "Smart Safety Services",
+        "title": "Information Technology Consultant",
+        "years": "06/01/2017 - 03/22/2019",
+        "mainTech": [
+          ""
+        ],
+        "technologies": [
+          "Repair",
+          "Support",
+          "Building Workstations"
+        ]
+      },
+      {
+        "company": "Rutgers University",
+        "title": "Associates, Computer Engineering",
+        "years": "08/01/2017 - 05/03/2019",
+        "mainTech": [
+          "GPA: 3.42"
+        ],
+        "technologies": [
+          "E-Sports Club member"
+        ]
+      },
+      {
+        "company": "The Gravity Vault Indoor Rock Gyms",
+        "title": "Instructor",
+        "years": "06/16/2016 - 05/01/2019",
+        "mainTech": [
+          ""
+        ],
+        "technologies": [
+          "Leadership",
+          "Inventory Management",
+          "Interpersonal Communication",
+          "Sales",
+          "Customer Service"
+        ]
+      },
+      {
+        "company": "Union High School",
+        "title": "Diploma",
+        "years": "09/02/2013 - 06/23/2017",
+        "mainTech": [
+          "GPA: 3.62"
+        ],
+        "technologies": [
+          "Cadet Lieutenant Colonel, Battalion Commander of Army JROTC",
+          "President of E-Sports Club",
+          "Over 2000 hours of community service"
         ]
       }
     ]
